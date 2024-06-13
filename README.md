@@ -1,2 +1,2 @@
-# PlayerPerformanceAnalysis
-IPL Players and their Performance every season
+# Player Performance Analysis
+ Thi shiny application will provide you IPL Players and their Performance 
