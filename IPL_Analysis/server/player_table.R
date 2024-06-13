@@ -36,10 +36,10 @@ output$player_table <- renderReactable({
       StrRate = colDef(minWidth = 200, name="SR over seasons",
                        align = "center", vAlign = "center",
                        cell = function(value, index) {
-                         if (length(statpp_df$StrRate[[index]]) == 1) {
-                           values <- c(0, statpp_df$StrRate[[index]])  # Add a 0 to create a "starting point" for the sparkline
+                         if (length(strk_df$StrRate[[index]]) == 1) {
+                           values <- c(0, strk_df$StrRate[[index]])  # Add a 0 to create a "starting point" for the sparkline
                          } else {
-                           values <- statpp_df$StrRate[[index]]
+                           values <- strk_df$StrRate[[index]]
                          }
                          sparkline(values,height = 50,width=200)
                        }),
