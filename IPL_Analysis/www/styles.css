@@ -1,0 +1,23 @@
+
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #64a8ed; /* Dark background for better visibility */
+  padding: 10px;
+  color: white;
+}
+
+.footer-container div {
+  margin: 0 10px; /* Space between footer items */
+}
+
+.footer-linkedin a, .footer-title a, .footer-github a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-linkedin a:hover, .footer-title a:hover, .footer-github a:hover {
+  text-decoration: underline;
+}
