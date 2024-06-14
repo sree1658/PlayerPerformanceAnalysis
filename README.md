@@ -23,5 +23,10 @@ The application is organized into several tabs for different functionalities:
 The Sidebar option is availble for Batting analysis tab only and it includes filters to refine player selections based on:
 - **Team:** Filter players based on their IPL team they have played .
 - **Phase of Innings:** Select specific phase of Innings to see how different players have performed over seasons.
-  
+
+## Abbreviations Used
+- **SR** - Strike Rate
+- **BPB** - Balls per Boundary
+- **DBP** - Dot Ball Percetage
+- **AVG** - Average
 
