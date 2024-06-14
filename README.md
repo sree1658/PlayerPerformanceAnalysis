@@ -20,8 +20,8 @@ The application is organized into several tabs for different functionalities:
 - **Batting analysis:** Allows users to see the performance of multiple players over seasons.
 
 ### Sidebar Filters
-The sidebar includes filters to refine player selections based on:
+The Sidebar option is availble for Batting analysis tab only and it includes filters to refine player selections based on:
 - **Team:** Filter players based on their IPL team they have played .
 - **Phase of Innings:** Select specific phase of Innings to see how different players have performed over seasons.
-- Sidebar option is availble for Batting analysis tab only
+  
 
